@@ -15,7 +15,6 @@ const ShortForm = () => {
       email,
       password,
     };
-    console.log(data);
   };
 
   return (
